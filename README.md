@@ -8,7 +8,7 @@ SuperAPI：告别服务端编码，一分钟发布企业级 API
 🗄️ 全支持：深度支持 MySQL、PostgreSQL 等主流关系型数据库。
 🎛️ 全定制：从参数到逻辑，完全掌控你的 API。
 
-官网：[www.code55.cn](http://http://www.code55.cn)
+官网：[www.code55.cn](http://www.code55.cn)
 
 #### 软件架构
 
