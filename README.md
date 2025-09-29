@@ -16,8 +16,11 @@ SuperAPI（零代码API）： 告别服务端编码，一分钟发布企业级 A
 
 #### 软件架构
 
-软件架构说明
+web: 演示网站。网址：[http://testsite.code55.cn](http://testsite.code55.cn)
 
+webAdmin: 演示后台。网址：[http://testadmin.code55.cn](http://testadmin.code55.cn)
+
+零码引擎：平台软件。网址：[http://www.code55.cn/Home/Down](http://www.code55.cn/Home/Down)
 
 #### 安装教程
 
