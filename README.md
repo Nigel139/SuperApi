@@ -1,52 +1,85 @@
-# 零码引擎（SuperAPI） 使用演示
+# 🚀 零码引擎：无需编写服务端代码，一键生成企业级 API！
 
-#### 介绍
-SuperAPI（零代码API）： 告别服务端编码，一分钟发布企业级 API
+[![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
+[![Gitee Stars](https://gitee.com/nigel139/super-api/badge/star.svg?theme=dark)](https://gitee.com/nigel139/super-api)
+[![Demo Site](https://img.shields.io/badge/demo-企业官网-blue)](http://testsite.code55.cn)
+[![Admin Demo](https://img.shields.io/badge/demo-管理后台-green)](http://testadmin.code55.cn)
 
-零代码：无需编写任何代码，专注业务逻辑;
+> **关键词**：免费API、零代码平台、零代码API、无代码开发、企业级API、低代码替代、快速上线、API自动生成、业务系统快速迭代、防代码垄断
 
-企业级：开箱即用的安全、高效与稳定;
+---
 
-全支持：深度支持 MySQL、PostgreSQL 等主流关系型数据库;
+## 💡 什么是“零码引擎”？
 
-全定制：从参数到逻辑，完全掌控你的 API。
+**零码引擎**是一个革命性的后端开发平台，让你**无需编写任何服务端代码**，仅通过**简单配置**，即可自动生成**安全、稳定、高性能的企业级 API**！
 
+无论你是初创团队、中小企业，还是大型企业，零码引擎都能帮你：
 
-官网：[www.code55.cn](http://www.code55.cn)
+- ✅ **大幅节省人力成本**：告别后端开发瓶颈，前端/产品/运营也能轻松构建完整系统  
+- ✅ **极速迭代业务系统**：新需求上线从“天”缩短到“分钟”级别  
+- ✅ **防止核心业务被个别员工掌控**：配置即代码，知识资产不再依赖个人  
+- ✅ **标准化 API 输出**：自动集成鉴权、日志、限流、缓存等企业级能力  
 
-#### 软件架构
+> 🔒 **注意**：零码引擎本体为**闭源商业产品**，但为帮助开发者快速体验其强大能力，我们开源了两个基于该引擎构建的完整演示项目！
 
-web: 演示网站。网址：[http://testsite.code55.cn](http://testsite.code55.cn)
+---
 
-webAdmin: 演示后台。网址：[http://testadmin.code55.cn](http://testadmin.code55.cn)
+## 🌐 开源演示项目（已开源，欢迎 Star & Fork！）
 
-零码引擎：平台软件。网址：[http://www.code55.cn/Home/Down](http://www.code55.cn/Home/Down)
+我们提供了两个真实场景的完整网站，全部**零服务端代码**，仅靠“零码引擎”配置驱动：
 
-#### 安装教程
+### 1. [企业官网演示站](http://testsite.code55.cn)
+- 动态内容管理（新闻、产品、团队等）
+- SEO 友好、响应式设计
+- 后台内容由零码引擎 API 驱动
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 2. [官网管理后台](http://testadmin.code55.cn)
+- 用户登录/权限控制
+- 内容 CRUD 操作
+- 数据看板与操作日志
+- **完全无后端代码**，所有逻辑由零码引擎自动实现！
 
-#### 使用说明
+> ⭐ **强烈建议先体验这两个开源项目，感受“零代码 API”的威力！**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+---
 
-#### 参与贡献
+## 🎯 为什么选择零码引擎？
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+| 传统开发方式 | 零码引擎 |
+|--------------|----------|
+| 需要后端工程师编写 API | **无需任何服务端代码** |
+| 开发周期长（数天/周） | **配置即上线（分钟级）** |
+| 代码耦合高，交接困难 | **配置即文档，团队共享无门槛** |
+| 容易形成“技术黑盒” | **业务逻辑透明可控** |
+| 需自行实现安全/日志/监控 | **内置企业级能力开箱即用** |
 
+---
 
-#### 特技
+## 📣 如何获取“零码引擎”？
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+虽然引擎本体暂未开源，但我们提供：
+
+- **启航版-永久免费**：支持中小项目快速验证
+
+👉 **立即访问官网了解详情**：[http://www.code55.cn](http://www.code55.cn)  
+📧 **商务合作/技术支持**：278891208@qq.com
+
+---
+
+## 🌟 如果你觉得这个理念有价值，请支持我们！
+
+1. **Star** 本仓库（即使闭源，你的关注对我们至关重要！）
+2. **Fork & Star** 两个开源演示项目：
+   - [企业官网 Demo](https://gitee.com/nigel139/super-api/web)
+   - [管理后台 Demo](https://gitee.com/nigel139/super-api/webAdmin)
+3. **分享给需要快速上线系统的团队！**
+
+---
+
+## 🔖 标签（便于搜索曝光）
+
+`#零代码平台` `#免费API` `#零代码API` `#无代码开发` `#API自动生成` `#低代码` `#企业级API` `#快速开发` `#后端免开发` `#Gitee推荐`
+
+---
+
+> **零码引擎 —— 让业务创新，不再等待代码。**
