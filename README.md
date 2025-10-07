@@ -70,8 +70,8 @@
 
 1. **Star** 本仓库（即使闭源，你的关注对我们至关重要！）
 2. **Fork & Star** 两个开源演示项目：
-   - [企业官网 Demo](https://gitee.com/nigel139/super-api/web)
-   - [管理后台 Demo](https://gitee.com/nigel139/super-api/webAdmin)
+   - [企业官网 Demo](https://gitee.com/nigel139/super-api)
+   - [管理后台 Demo](https://gitee.com/nigel139/super-api)
 3. **分享给需要快速上线系统的团队！**
 
 ---
