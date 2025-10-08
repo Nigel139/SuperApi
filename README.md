@@ -1,7 +1,7 @@
 # 🚀 零码引擎：无需编写服务端代码，一键生成企业级 API！
 
 [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
-[![Gitee Stars](https://gitee.com/nigel139/super-api/badge/star.svg?theme=dark)](https://gitee.com/nigel139/super-api)
+[![GitHub Stars](https://img.shields.io/github/stars/Nigel139/SuperApi?style=social)](https://github.com/Nigel139/SuperApi)
 [![Demo Site](https://img.shields.io/badge/demo-企业官网-blue)](http://testsite.code55.cn)
 [![Admin Demo](https://img.shields.io/badge/demo-管理后台-green)](http://testadmin.code55.cn)
 
@@ -72,15 +72,15 @@
 
 1. **Star** 本仓库（即使闭源，你的关注对我们至关重要！）
 2. **Fork & Star** 两个开源演示项目：
-   - [企业官网 Demo](https://gitee.com/nigel139/super-api)
-   - [管理后台 Demo](https://gitee.com/nigel139/super-api)
+   - [企业官网 Demo](https://github.com/Nigel139/SuperApi)
+   - [管理后台 Demo](https://github.com/Nigel139/SuperApi)
 3. **分享给需要快速上线系统的团队！**
 
 ---
 
 ## 🔖 标签（便于搜索曝光）
 
-`#零代码平台` `#免费API` `#零代码API` `#无代码开发` `#API自动生成` `#低代码` `#企业级API` `#快速开发` `#后端免开发` `#Gitee推荐`
+`零代码平台` `免费API` `零代码API` `无代码开发` `API自动生成` `低代码` `企业级API` `快速开发` `后端免开发` `GitHub推荐`
 
 ---
 
